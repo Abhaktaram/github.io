@@ -17,7 +17,7 @@ output:
 ## About
 Ananya Bhaktaram is a doctoral student in the Department of Health Behavior and
 Society at the Johns Hopkins Bloomberg School of public Health. She studies geographic
-and spatial factors that influence community formation and disolution. During her time at Hopkins she was completed the 620 biostats series, the spatial analysis series, advanced quantitative methods in the social and behavioral sciences: a practical introduction, psychosocial statistics: measurement in addition to robust coursework and practical experiences in qualitative methods. She has primarily used STATA, but has used R on occasion and is hoping to get a better grasp and sense of confidence on statistical computing and coding in R. 
+and spatial factors that influence community formation and disolution. 
 
 ## Interests
 - Social and Structural Determinants of Health
@@ -37,3 +37,12 @@ and spatial factors that influence community formation and disolution. During he
   - B.A. in Community Health (Minor in GIS) | 2017 - 2021
   
   - B.A. in Letters (Minor in Constitutional Studies) | 2017 - 2021
+
+## Relevant Course Work
+- Statistical Methods I-IV
+- Spatial Analysis II-IV
+- Epdemiological Methods I-III
+- Psychosocial Statistics: Measurement
+- Advanced Quantitative Methods in the Social and Behavioral Sciences
+- Theory & Practice in Qualitative Data Analysis
+- Concepts in Qualitative Research for Social and Behavioral Sciences
